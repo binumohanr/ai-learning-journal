@@ -1,0 +1,11 @@
+#Secret files - never push these !!
+.env
+*.key
+*.password
+secrets.txt
+
+#Mac junk files
+.DS_Store
+
+# VS Code settings
+.vscode/
